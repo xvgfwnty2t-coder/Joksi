@@ -117,54 +117,54 @@ creators:
     hashtags: ["#Luality", "#GTA5", "#GTAV"]
 
 
-# Added 2026-11-20: channel names confirmed by hand. Everything stays disabled until the
-# campaign is joined and its required hashtags are checked in the campaign brief.
-- id: yourrage
-  name: YourRAGE
-  short: Rage
-  platform: twitch
-  channel: yourrage
-  permission: "Content Rewards campaign (join first, verify terms)"
-  sponsored: false
-  enabled: false
-  hashtags: ["#YourRAGE"]
+  # Added 2026-11-20: channel names confirmed by hand. Everything stays disabled until the
+  # campaign is joined and its required hashtags are checked in the campaign brief.
+  - id: yourrage
+    name: YourRAGE
+    short: Rage
+    platform: twitch
+    channel: yourrage
+    permission: "Content Rewards campaign (join first, verify terms)"
+    sponsored: false
+    enabled: false
+    hashtags: ["#YourRAGE"]
 
-- id: clix
-  name: Clix
-  short: Clix
-  platform: twitch
-  channel: clix
-  permission: "Content Rewards campaign (join first, verify terms)"
-  sponsored: false
-  enabled: false
-  hashtags: ["#Clix"]
+  - id: clix
+    name: Clix
+    short: Clix
+    platform: twitch
+    channel: clix
+    permission: "Content Rewards campaign (join first, verify terms)"
+    sponsored: false
+    enabled: false
+    hashtags: ["#Clix"]
 
-- id: kreekcraft
-  name: KreekCraft
-  short: Kreek
-  platform: youtube
-  channel: "@Kreek"   # his GTA 6 livestreams are on this channel, not @KreekCraft
-  permission: "Content Rewards campaign (join first, verify terms)"
-  sponsored: false
-  enabled: false
-  hashtags: ["#KreekCraft"]   # the campaign also requires his stream overlay on every clip
+  - id: kreekcraft
+    name: KreekCraft
+    short: Kreek
+    platform: youtube
+    channel: "@Kreek"   # his GTA 6 livestreams are on this channel, not @KreekCraft
+    permission: "Content Rewards campaign (join first, verify terms)"
+    sponsored: false
+    enabled: false
+    hashtags: ["#KreekCraft"]   # the campaign also requires his stream overlay on every clip
 
-- id: tomo
-  name: Tomo
-  short: Tomo
-  platform: youtube
-  channel: "@Tomovids"
-  permission: "Content Rewards campaign (join first, verify terms)"
-  sponsored: false
-  enabled: false
-  hashtags: ["#Tomo"]
+  - id: tomo
+    name: Tomo
+    short: Tomo
+    platform: youtube
+    channel: "@Tomovids"
+    permission: "Content Rewards campaign (join first, verify terms)"
+    sponsored: false
+    enabled: false
+    hashtags: ["#Tomo"]
 
-- id: dylanpage
-  name: Dylan Page
-  short: Dylan
-  platform: youtube
-  channel: "@dylan.page"
-  permission: "Content Rewards campaign (join first, verify terms)"
-  sponsored: false
-  enabled: false
-  hashtags: ["#DylanPage"]
+  - id: dylanpage
+    name: Dylan Page
+    short: Dylan
+    platform: youtube
+    channel: "@dylan.page"
+    permission: "Content Rewards campaign (join first, verify terms)"
+    sponsored: false
+    enabled: false
+    hashtags: ["#DylanPage"]
