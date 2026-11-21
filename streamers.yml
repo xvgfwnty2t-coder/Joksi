@@ -14,7 +14,7 @@ creators:
     channel: kaicenat
     permission: "Content Rewards"
     sponsored: false
-    enabled: false
+    enabled: true
     hashtags: ["#KaiCenat"]
 
   - id: ishowspeed
@@ -35,7 +35,7 @@ creators:
     channel: lacy
     permission: "Reach"
     sponsored: false
-    enabled: false
+    enabled: true
     hashtags: ["#Lacy"]
 
   - id: marlon
@@ -136,7 +136,7 @@ creators:
     channel: clix
     permission: "Content Rewards campaign (join first, verify terms)"
     sponsored: false
-    enabled: false
+    enabled: true
     hashtags: ["#Clix"]
 
   - id: kreekcraft
