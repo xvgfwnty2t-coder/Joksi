@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 03:30 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 03:31 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 79 | Clix | Clix Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0307_s079_clix_p24.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0307_s079_clix_p24.txt) |
 | 🔥 **POST THESE** | 76 | Clix | Clix: "Holy shit the Pagani jump it off" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0312_s076_clix_p26.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0312_s076_clix_p26.txt) |
 |  | 75 | Clix | Clix: "Oh fuck oh fuck oh fuck Lou" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0306_s075_clix_p25.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0306_s075_clix_p25.txt) |
+|  | 71 | Clix | Clix Was Not Ready For This Mission #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0328_s071_clix_p28.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0328_s071_clix_p28.txt) |
 |  | 65 | Lacy | GTA 6 Broke Lacy #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0317_s065_lacy_p28.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0317_s065_lacy_p28.txt) |
 |  | 62 | Kai Cenat | Kai: "Okay so three nights" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0320_s062_kaicenat_p26.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0320_s062_kaicenat_p26.txt) |
 |  | 61 | Kai Cenat | Kai: "He's gonna hit you so much" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0303_s061_kaicenat_p24.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0303_s061_kaicenat_p24.txt) |
@@ -20,6 +21,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 59 | Clix | Clix Lost It In GTA 6 #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0314_s059_clix_p27.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0314_s059_clix_p27.txt) |
 |  | 59 | Kai Cenat | Kai: "Which is over here?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0302_s059_kaicenat_p25.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0302_s059_kaicenat_p25.txt) |
 |  | 57 | Kai Cenat | Kai: "Y'all trying to on bro" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0322_s057_kaicenat_p28.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0322_s057_kaicenat_p28.txt) |
+|  | 55 | Kai Cenat | Kai Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0323_s055_kaicenat_p29.mp4) |  |
 |  | 53 | Lacy | Lacy: "Bot thank you for the tier one" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0308_s053_lacy_p26.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0308_s053_lacy_p26.txt) |
 |  | 48 | Kai Cenat | Kai Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0310_s048_kaicenat_p27.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0310_s048_kaicenat_p27.txt) |
 
