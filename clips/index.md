@@ -18,6 +18,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 60 | Lacy | Lacy: "Yeah fucking call to Juan oh my god" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0310_s060_lacy_p25.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0310_s060_lacy_p25.txt) |
 |  | 59 | Kai Cenat | Kai: "Which is over here?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0302_s059_kaicenat_p25.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0302_s059_kaicenat_p25.txt) |
 |  | 53 | Lacy | Lacy: "Bot thank you for the tier one" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0308_s053_lacy_p26.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0308_s053_lacy_p26.txt) |
+|  | 48 | Kai Cenat | Kai Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0310_s048_kaicenat_p27.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0310_s048_kaicenat_p27.txt) |
 
 ### 22/11/2026 02:00–03:00 CET
 
