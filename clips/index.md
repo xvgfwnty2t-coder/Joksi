@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 75 | Lacy | Lacy: "He kinda looks like me" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0702_s075_lacy_p72.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0702_s075_lacy_p72.txt) |
 | 🔥 **POST THESE** | 73 | Lacy | Lacy Sent It In Vice City #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0714_s073_lacy_p76.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0714_s073_lacy_p76.txt) |
-| 🔥 **POST THESE** | 61 | Lacy | Lacy: "Where's my true rose?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0707_s061_lacy_p74.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0707_s061_lacy_p74.txt) |
+| 🔥 **POST THESE** | 70 | Lacy | Lacy: "You think I'm gonna pick this shit up?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0722_s070_lacy_p77.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0722_s070_lacy_p77.txt) |
+|  | 61 | Lacy | Lacy: "Where's my true rose?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0707_s061_lacy_p74.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0707_s061_lacy_p74.txt) |
 |  | 54 | Lacy | Lacy: "Is that give you guys a little chocolate?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0705_s054_lacy_p75.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0705_s054_lacy_p75.txt) |
 
 ### 22/11/2026 06:00–07:00 CET
