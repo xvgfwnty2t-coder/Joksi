@@ -12,7 +12,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 79 | Clix | Clix Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0307_s079_clix_p24.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0307_s079_clix_p24.txt) |
 | 🔥 **POST THESE** | 61 | Kai Cenat | Kai: "He's gonna hit you so much" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0303_s061_kaicenat_p24.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0303_s061_kaicenat_p24.txt) |
 | 🔥 **POST THESE** | 60 | Lacy | Lacy: "Yeah fucking call to Juan oh my god" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0310_s060_lacy_p25.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0310_s060_lacy_p25.txt) |
-|  | 59 | Kai Cenat | Kai: "Which is over here?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0302_s059_kaicenat_p25.mp4) |  |
+|  | 59 | Kai Cenat | Kai: "Which is over here?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0302_s059_kaicenat_p25.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0302_s059_kaicenat_p25.txt) |
 
 ### 22/11/2026 02:00–03:00 CET
 
