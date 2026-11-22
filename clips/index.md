@@ -10,7 +10,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 79 | Lacy | Lacy: "We're gonna make a black male for chat" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0208_s079_lacy_p13.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0208_s079_lacy_p13.txt) |
-| 🔥 **POST THESE** | 37 | Kai Cenat | Kai: "I need that in there is ours wait" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.txt) |
+| 🔥 **POST THESE** | 64 | Clix | Clix: "Yeah wait I've never had six stars" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0209_s064_clix_p12.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0209_s064_clix_p12.txt) |
+|  | 37 | Kai Cenat | Kai: "I need that in there is ours wait" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.txt) |
 
 ### 22/11/2026 01:00–02:00 CET
 
