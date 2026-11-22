@@ -10,6 +10,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 73 | Kai Cenat | Kai: "I'm gonna do that mission" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0101_s073_kaicenat_p01.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0101_s073_kaicenat_p01.txt) |
+| 🔥 **POST THESE** | 67 | Lacy | Lacy Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0109_s067_lacy_p01.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0109_s067_lacy_p01.txt) |
 
 ### 20/11/2026 16:00–17:00 CET
 
