@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 08:23 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 08:33 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 64 | Lacy | Lacy: "Look I'm sorry okay?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0805_s064_lacy_p87.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0805_s064_lacy_p87.txt) |
 | 🔥 **POST THESE** | 64 | Lacy | Lacy: "Where are we going?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0804_s064_lacy_p86.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0804_s064_lacy_p86.txt) |
-| 🔥 **POST THESE** | 61 | Lacy | Lacy: "Oh I think it's real too" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0813_s061_lacy_p88.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0813_s061_lacy_p88.txt) |
+| 🔥 **POST THESE** | 63 | Lacy | Lacy Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0825_s063_lacy_p90.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0825_s063_lacy_p90.txt) |
+|  | 61 | Lacy | Lacy: "Oh I think it's real too" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0813_s061_lacy_p88.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0813_s061_lacy_p88.txt) |
 |  | 58 | Lacy | Lacy Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0819_s058_lacy_p89.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0819_s058_lacy_p89.txt) |
 
 ### 22/11/2026 07:00–08:00 CET
