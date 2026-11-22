@@ -13,6 +13,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 70 | Lacy | Lacy: "But I am excited for what December has" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0918_s070_lacy_p100.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0918_s070_lacy_p100.txt) |
 | 🔥 **POST THESE** | 69 | Lacy | Lacy: "You sure it'll work?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0900_s069_lacy_p96.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0900_s069_lacy_p96.txt) |
 |  | 67 | Lacy | Lacy: "Jeff that's what I'm gonna say" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0912_s067_lacy_p99.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0912_s067_lacy_p99.txt) |
+|  | 66 | Lacy | Lacy: "No I mean like like by myself" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0913_s066_lacy_p101.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0913_s066_lacy_p101.txt) |
 
 ### 22/11/2026 08:00–09:00 CET
 
