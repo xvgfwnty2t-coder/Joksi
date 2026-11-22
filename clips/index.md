@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 10:03 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 10:13 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -9,6 +9,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
+| 🔥 **POST THESE** | 67 | Lacy | GTA 6 Broke Lacy #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-1010_s067_lacy_p109.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-1010_s067_lacy_p109.txt) |
 | 🔥 **POST THESE** | 57 | Lacy | Lacy Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-1001_s057_lacy_p108.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-1001_s057_lacy_p108.txt) |
 
 ### 22/11/2026 09:00–10:00 CET
