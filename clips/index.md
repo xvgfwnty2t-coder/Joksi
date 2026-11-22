@@ -12,6 +12,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 73 | Kai Cenat | Kai: "I'm gonna do that mission" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0101_s073_kaicenat_p01.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0101_s073_kaicenat_p01.txt) |
 | 🔥 **POST THESE** | 70 | Clix | Clix: "Get off your phone and enjoy it now" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0106_s070_clix_p01.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0106_s070_clix_p01.txt) |
 | 🔥 **POST THESE** | 67 | Lacy | Lacy Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0109_s067_lacy_p01.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0109_s067_lacy_p01.txt) |
+|  | 61 | Kai Cenat | Kai: "I'll let you know okay?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0108_s061_kaicenat_p02.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0108_s061_kaicenat_p02.txt) |
+|  | 59 | Clix | Clix Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0109_s059_clix_p02.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0109_s059_clix_p02.txt) |
 
 ### 20/11/2026 16:00–17:00 CET
 
