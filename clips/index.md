@@ -13,8 +13,10 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 69 | Lacy | Lacy: "Shake some ass" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0402_s069_lacy_p37.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0402_s069_lacy_p37.txt) |
 | 🔥 **POST THESE** | 67 | Lacy | Lacy: "Chad that was crazy y'all got to admit" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0406_s067_lacy_p38.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0406_s067_lacy_p38.txt) |
 |  | 66 | Kai Cenat | Kai Lost It In GTA 6 #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0404_s066_kaicenat_p36.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0404_s066_kaicenat_p36.txt) |
+|  | 64 | Lacy | Lacy: "All right all right" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0420_s064_lacy_p40.mp4) |  |
 |  | 55 | Kai Cenat | Kai Lost It In GTA 6 #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0405_s055_kaicenat_p37.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0405_s055_kaicenat_p37.txt) |
 |  | 52 | Kai Cenat | GTA 6 Broke Kai #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0412_s052_kaicenat_p38.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0412_s052_kaicenat_p38.txt) |
+|  | 50 | Kai Cenat | This Heist Was A Disaster For Kai #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0416_s050_kaicenat_p39.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0416_s050_kaicenat_p39.txt) |
 
 ### 22/11/2026 03:00–04:00 CET
 
