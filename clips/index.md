@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 20 Nov 2026 16:48 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 01:11 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 22/11/2026 01:00–02:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 73 | Kai Cenat | Kai: "I'm gonna do that mission" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0101_s073_kaicenat_p01.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0101_s073_kaicenat_p01.txt) |
 
 ### 20/11/2026 16:00–17:00 CET
 
