@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 02:11 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 02:20 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 79 | Lacy | Lacy: "We're gonna make a black male for chat" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0208_s079_lacy_p13.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0208_s079_lacy_p13.txt) |
 | 🔥 **POST THESE** | 74 | Lacy | Lacy: "This is taking balls as being an outofst" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0205_s074_lacy_p14.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0205_s074_lacy_p14.txt) |
-| 🔥 **POST THESE** | 64 | Clix | Clix: "Yeah wait I've never had six stars" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0209_s064_clix_p12.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0209_s064_clix_p12.txt) |
+| 🔥 **POST THESE** | 65 | Kai Cenat | Kai: "Check what I'm doing in the club?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0216_s065_kaicenat_p14.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0216_s065_kaicenat_p14.txt) |
+|  | 64 | Clix | Clix: "Yeah wait I've never had six stars" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0209_s064_clix_p12.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0209_s064_clix_p12.txt) |
 |  | 61 | Clix | Clix: "I'll take a little nap" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0207_s061_clix_p13.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0207_s061_clix_p13.txt) |
 |  | 37 | Kai Cenat | Kai: "I need that in there is ours wait" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.txt) |
 
