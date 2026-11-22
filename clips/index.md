@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 02:01 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 02:10 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 22/11/2026 02:00–03:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 37 | Kai Cenat | Kai: "I need that in there is ours wait" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0200_s037_kaicenat_p13.txt) |
 
 ### 22/11/2026 01:00–02:00 CET
 
