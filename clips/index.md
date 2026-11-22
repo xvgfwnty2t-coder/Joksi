@@ -1,9 +1,15 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 03:01 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 03:11 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
+
+### 22/11/2026 03:00–04:00 CET
+
+| | Score | Creator | Title | Video | Title + description |
+|---|---|---|---|---|---|
+| 🔥 **POST THESE** | 61 | Kai Cenat | Kai: "He's gonna hit you so much" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0303_s061_kaicenat_p24.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0303_s061_kaicenat_p24.txt) |
 
 ### 22/11/2026 02:00–03:00 CET
 
