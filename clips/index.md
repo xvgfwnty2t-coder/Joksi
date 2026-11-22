@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 03:50 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 03:51 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -10,8 +10,9 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | | Score | Creator | Title | Video | Title + description |
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 86 | Lacy | Lacy Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0315_s086_lacy_p27.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0315_s086_lacy_p27.txt) |
+| 🔥 **POST THESE** | 79 | Lacy | Lacy: "We're in the club for tonight" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0345_s079_lacy_p33.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0345_s079_lacy_p33.txt) |
 | 🔥 **POST THESE** | 79 | Clix | Clix Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0307_s079_clix_p24.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0307_s079_clix_p24.txt) |
-| 🔥 **POST THESE** | 77 | Lacy | Lacy Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0335_s077_lacy_p31.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0335_s077_lacy_p31.txt) |
+|  | 77 | Lacy | Lacy Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0335_s077_lacy_p31.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0335_s077_lacy_p31.txt) |
 |  | 76 | Lacy | GTA 6 Broke Lacy #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0327_s076_lacy_p29.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0327_s076_lacy_p29.txt) |
 |  | 76 | Clix | Clix: "Holy shit the Pagani jump it off" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0312_s076_clix_p26.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0312_s076_clix_p26.txt) |
 |  | 75 | Clix | Clix: "Oh fuck oh fuck oh fuck Lou" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0306_s075_clix_p25.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0306_s075_clix_p25.txt) |
