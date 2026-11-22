@@ -16,6 +16,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 66 | Lacy | Lacy: "No I mean like like by myself" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0913_s066_lacy_p101.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0913_s066_lacy_p101.txt) |
 |  | 50 | Lacy | Lacy Lost It In GTA 6 #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0941_s050_lacy_p103.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0941_s050_lacy_p103.txt) |
 |  | 50 | Lacy | Lacy Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0925_s050_lacy_p102.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0925_s050_lacy_p102.txt) |
+|  | 47 | Lacy | Lacy: "You should stream with train wrecks?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0935_s047_lacy_p104.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0935_s047_lacy_p104.txt) |
 
 ### 22/11/2026 08:00–09:00 CET
 
