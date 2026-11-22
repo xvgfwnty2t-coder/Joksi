@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 63 | Lacy | Lacy Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0825_s063_lacy_p90.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0825_s063_lacy_p90.txt) |
 |  | 61 | Lacy | Lacy: "Oh I think it's real too" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0813_s061_lacy_p88.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0813_s061_lacy_p88.txt) |
 |  | 58 | Lacy | Lacy Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0819_s058_lacy_p89.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0819_s058_lacy_p89.txt) |
+|  | 57 | Lacy | Lacy: "Shall we percentage all of the gum man?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0824_s057_lacy_p91.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0824_s057_lacy_p91.txt) |
 
 ### 22/11/2026 07:00–08:00 CET
 
