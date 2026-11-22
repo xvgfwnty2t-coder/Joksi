@@ -22,6 +22,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 60 | Clix | Clix: "No two bro" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0115_s060_clix_p03.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0115_s060_clix_p03.txt) |
 |  | 59 | Clix | Clix Was Not Ready #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0109_s059_clix_p02.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/clix-20261122/20261122-0109_s059_clix_p02.txt) |
 |  | 55 | Kai Cenat | Kai: "Now you need more jerks bro" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0110_s055_kaicenat_p04.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0110_s055_kaicenat_p04.txt) |
+|  | 54 | Kai Cenat | Kai Can'T Believe What Just Happened #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0129_s054_kaicenat_p06.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0129_s054_kaicenat_p06.txt) |
 
 ### 20/11/2026 16:00–17:00 CET
 
