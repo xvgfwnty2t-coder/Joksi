@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 06:20 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 06:21 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -11,7 +11,8 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 67 | Kai Cenat | Kai: "That is in on the armor truck" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0613_s067_kaicenat_p61.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0613_s067_kaicenat_p61.txt) |
 | 🔥 **POST THESE** | 64 | Lacy | Lacy: "Bro I'm going" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0606_s064_lacy_p61.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0606_s064_lacy_p61.txt) |
-| 🔥 **POST THESE** | 60 | Kai Cenat | Kai Pulled Off The Heist?! #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0605_s060_kaicenat_p59.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0605_s060_kaicenat_p59.txt) |
+| 🔥 **POST THESE** | 63 | Lacy | Lacy: "Just keeps fucking going up" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0620_s063_lacy_p63.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0620_s063_lacy_p63.txt) |
+|  | 60 | Kai Cenat | Kai Pulled Off The Heist?! #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0605_s060_kaicenat_p59.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0605_s060_kaicenat_p59.txt) |
 |  | 58 | Lacy | Lacy: "Until I get like this call?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0602_s058_lacy_p62.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0602_s058_lacy_p62.txt) |
 |  | 53 | Kai Cenat | Kai: "They would have took it away?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0608_s053_kaicenat_p60.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0608_s053_kaicenat_p60.txt) |
 
