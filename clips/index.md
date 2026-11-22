@@ -17,6 +17,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |  | 65 | Lacy | Lacy: "Hold on Chad" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0723_s065_lacy_p79.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0723_s065_lacy_p79.txt) |
 |  | 61 | Lacy | Lacy: "Where's my true rose?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0707_s061_lacy_p74.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0707_s061_lacy_p74.txt) |
 |  | 54 | Lacy | Lacy: "Is that give you guys a little chocolate?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0705_s054_lacy_p75.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0705_s054_lacy_p75.txt) |
+|  | 52 | Lacy | Lacy: "What is this story?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0733_s052_lacy_p81.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0733_s052_lacy_p81.txt) |
 
 ### 22/11/2026 06:00–07:00 CET
 
