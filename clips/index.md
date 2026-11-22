@@ -1,6 +1,6 @@
 # GTA 6 clips — newest first
 
-_Updated 22 Nov 2026 04:41 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
+_Updated 22 Nov 2026 04:50 CET · [All releases](https://github.com/xvgfwnty2t-coder/Joksi/releases)_
 
 Download on your tablet: tap **MP4** to save the video, tap **TXT** for the ready-to-paste title + description.
 Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
@@ -14,6 +14,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 | 🔥 **POST THESE** | 72 | Lacy | Lacy: "What are you getting?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0419_s072_lacy_p39.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0419_s072_lacy_p39.txt) |
 |  | 69 | Lacy | Lacy: "Hey shout God we're going in the vault" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0432_s069_lacy_p43.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0432_s069_lacy_p43.txt) |
 |  | 69 | Lacy | Lacy: "Shake some ass" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0402_s069_lacy_p37.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0402_s069_lacy_p37.txt) |
+|  | 67 | Kai Cenat | GTA 6 Broke Kai #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0446_s067_kaicenat_p44.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0446_s067_kaicenat_p44.txt) |
 |  | 67 | Lacy | Lacy: "Is that all the cash" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0436_s067_lacy_p44.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0436_s067_lacy_p44.txt) |
 |  | 67 | Lacy | Lacy: "Chad that was crazy y'all got to admit" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0406_s067_lacy_p38.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0406_s067_lacy_p38.txt) |
 |  | 66 | Kai Cenat | Kai Lost It In GTA 6 #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0404_s066_kaicenat_p36.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0404_s066_kaicenat_p36.txt) |
