@@ -11,6 +11,7 @@ Post only the 🔥 **POST THESE** clips (best 2–3 per hour), not all of them.
 |---|---|---|---|---|---|
 | 🔥 **POST THESE** | 64 | Lacy | Lacy: "Bro I'm going" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0606_s064_lacy_p61.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/lacy-20261122/20261122-0606_s064_lacy_p61.txt) |
 | 🔥 **POST THESE** | 60 | Kai Cenat | Kai Pulled Off The Heist?! #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0605_s060_kaicenat_p59.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0605_s060_kaicenat_p59.txt) |
+|  | 53 | Kai Cenat | Kai: "They would have took it away?" #GTA6 | [MP4](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0608_s053_kaicenat_p60.mp4) | [TXT](https://github.com/xvgfwnty2t-coder/Joksi/releases/download/kaicenat-20261122/20261122-0608_s053_kaicenat_p60.txt) |
 
 ### 22/11/2026 05:00–06:00 CET
 
